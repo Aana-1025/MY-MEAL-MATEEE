@@ -141,7 +141,7 @@ My Meal Mate/
 
 ```bash
 git clone https://github.com/Aana-1025/MY-MEAL-MATEEE.git
-cd my-meal-mate
+cd MY-MEAL-MATEEE
 npm install
 npm run dev
 
