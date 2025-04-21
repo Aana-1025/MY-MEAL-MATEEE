@@ -140,7 +140,7 @@ My Meal Mate/
 ## ⚙️ Local Setup
 
 ```bash
-git clone https://github.com/your-username/my-meal-mate.git
+git clone https://github.com/Aana-1025/MY-MEAL-MATEEE.git
 cd my-meal-mate
 npm install
 npm run dev
