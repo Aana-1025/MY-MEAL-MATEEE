@@ -133,7 +133,7 @@ My Meal Mate/
 
 ---
 
-## 🖼️ Screenshots
+
 
 
 
@@ -144,9 +144,5 @@ git clone https://github.com/your-username/my-meal-mate.git
 cd my-meal-mate
 npm install
 npm run dev
----
-## ⚙️ Local Setup
 
 
-## **✨ Author**
-Made with 💖 by Antara Utane
