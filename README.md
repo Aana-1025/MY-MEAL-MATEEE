@@ -144,11 +144,9 @@ git clone https://github.com/your-username/my-meal-mate.git
 cd my-meal-mate
 npm install
 npm run dev
+---
+## ⚙️ Local Setup
 
-## build for production
-
-npm run build
 
 ## **✨ Author**
-
 Made with 💖 by Antara Utane
